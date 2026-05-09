@@ -37,7 +37,7 @@ NeoFortran is a modern evolution of Fortran — clean free-form syntax, first-cl
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/neofortran/neofortran
+git clone https://github.com/SuhoPro777/neofortran.git
 cd neofortran
 pip install -e .
 ```
